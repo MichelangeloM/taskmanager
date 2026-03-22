@@ -62,10 +62,12 @@ including REST APIs, database interaction, and clean architecture.
 
 ## How to run
 
-Clone the repository
+Clone the repository.
+
 Open the project in your IDE
 Run the main class:
 TaskmanagerApplication.java
+
 The server will start on:
 http://localhost:8080
 
